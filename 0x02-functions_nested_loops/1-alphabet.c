@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - beginning of program execution
- * prints alphabet in lowercase with _putchar function
+ * 
+ * print_alphabet - in lowercase with _putchar function
  *
  * Return: end of program execution
  */
