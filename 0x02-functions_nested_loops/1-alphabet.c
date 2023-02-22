@@ -1,8 +1,7 @@
-#include "main.h"
+#include "main,h"
 
 /**
- * 
- * print_alphabet - in lowercase with _putchar function
+ * print_alphabet - prints alphabet in lowercase with _putchar
  *
  * Return: end of program execution
  */
