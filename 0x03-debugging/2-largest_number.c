@@ -1,4 +1,4 @@
-#include "mainh.h"
+#include "main.h"
 
 /**
  * largest_number - prints the largest of three integers
