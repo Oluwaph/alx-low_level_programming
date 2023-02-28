@@ -22,7 +22,6 @@ void rev_string(char *s)
 	lenght2 = lenght1 - 1;
 	for (i = 0; i < lenght1; i++)
 	{
-		"samalx" "xlamas"
 		tmp = s[i];
 		s[1] = s[lenght2];
 		s[lenght2] = tmp;
